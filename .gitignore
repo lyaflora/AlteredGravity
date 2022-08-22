@@ -47,16 +47,28 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+!Binaries/Win64
+Binaries/Win64/*
 !Binaries/Win64/AlteredGravityEditor.target
 !Binaries/Win64/tbb.dll
 !Binaries/Win64/tbb12.dll
 !Binaries/Win64/UnrealEditor.modules
 !Binaries/Win64/UnrealEditor.target
 !Binaries/Win64/UnrealEditor-AlteredGravity.dll
+!Binaries/Win64/D3D12
+Binaries/Win64/D3D12/*
 !Binaries/Win64/D3D12/D3D12Core.dll
 Plugins/*/Binaries/*
+!Plugins/CustomGravityPlugin
+Plugins/CustomGravityPlugin/Binaries/*
+!Plugins/CustomGravityPlugin/Binaries/Win64
+Plugins/CustomGravityPlugin/Binaries/Win64/*
 !Plugins/CustomGravityPlugin/Binaries/Win64/UnrealEditor.modules
 !Plugins/CustomGravityPlugin/Binaries/Win64/UnrealEditor-CustomGravityPlugin.dll
+!Plugins/LowEntryExtendedPlugin
+Plugins/LowEntryExtendedPlugin/Binaries/*
+!Plugins/LowEntryExtendedPlugin/Binaries/Win64
+Plugins/LowEntryExtendedPlugin/Binaries/Win64/*
 !Plugins/LowEntryExtendedPlugin/Binaries/Win64/UnrealEditor.modules
 !Plugins/LowEntryExtendedPlugin/Binaries/Win64/UnrealEditor-LowEntryExtendedStandardLibrary.dll
 !Plugins/LowEntryExtendedPlugin/Binaries/Win64/UnrealEditor-LowEntryExtendedStandardLibraryEditor.dll
