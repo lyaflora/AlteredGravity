@@ -26,6 +26,10 @@
 			"Name": "CustomGravityPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "https://unrealengineresources.com/plugins"
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	]
 }
