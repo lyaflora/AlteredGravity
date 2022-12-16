@@ -12,13 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
 			"Name": "FieldSystemPlugin",
 			"Enabled": true
 		},
@@ -32,8 +25,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "StaticMeshEditorModeling",
-			"Enabled": true
+			"Name": "ChaosEditor",
+			"Enabled": false
 		}
 	]
 }
