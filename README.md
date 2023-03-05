@@ -1,5 +1,7 @@
 # AlteredGravity
 
+![Vortex Tube](Screenshots/VortexTube.png)
+
 A game with the aim of manipulating the space perception of the player.
 
 ## Launch on Windows
@@ -43,5 +45,4 @@ Made with Unreal Engine 5.
 ![Indoors](Screenshots/Indoors.png)
 ![Doors](Screenshots/Doors.png)
 ![Stairs](Screenshots/Stairs.png)
-![Vortex Tube](Screenshots/VortexTube.png)
 ![Stripes](Screenshots/Stripes.png)
